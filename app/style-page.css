@@ -1,0 +1,665 @@
+
+@media  screen and (min-width: 1px) and (max-width: 320px){
+ 
+  .logoprimero{
+    position: absolute;
+    top: 25px; left: 25px;
+    color: white;
+  }
+   
+  .cuerpo {
+    background-color: #071920;
+    width: auto;
+    height: 1110px;
+  
+}
+
+.insidebox {
+  position: absolute;
+  align-items: first baseline;
+  width: 200px;
+  top: 100px;
+left:   15%;
+  display: flex;
+  flex-direction: column;
+
+  color: white;
+  background: #071920;
+  
+  font-size: medium;
+  
+}
+
+  ._info_column_handle {
+    position: absolute;
+    top: 270px;
+    left: 5%;
+    right: 10%;
+    width: auto;
+    font-size: small;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+}
+
+.cbdproject {
+    position: absolute;
+    top: 500px;
+    left: 5%;
+
+    font-size: small;
+    height: 220px;
+    width: auto;
+    border-radius: 15%;
+
+    color: white;
+}
+.fila_1{
+  position: relative;
+  top: 50px;left: 5px;
+}
+
+  .fila_2 {
+      position: absolute;
+      right: 10px;
+      top: 35px;
+      position: absolute;
+      width: 180px;
+      border-top-style: solid;
+      padding-top: 7px;
+      border-width: 2px;
+      border-color: #C80036;
+  }
+  .revanchaproject {
+    position: absolute;
+    top: 700px;
+    left: 5%;
+    text-align: left;
+    font-size: small;
+
+    height: 220px;
+    width: auto;
+    border-radius: 15%;
+    color: white;
+}
+.handle_pagefoter {
+    position: absolute;
+    top: 900px;
+    left: 5%;
+    width: 300px;
+  text-align: center;
+  
+  
+}
+
+a {
+  color:bisque;
+  text-decoration: none;
+
+}
+  
+}
+
+
+
+@media  screen and (min-width: 320px) and (max-width: 450px){
+  
+  .logoprimero{
+    position: absolute;
+    top: 25px; left: 25px;
+    color: white;
+  }
+   
+  .cuerpo {
+    background-color: #071920;
+    width: auto;
+    height: 1110px;
+  
+}
+
+.insidebox {
+  position: absolute;
+  align-items: first baseline;
+  width: 200px;
+  top: 100px;
+left:   15%;
+  display: flex;
+  flex-direction: column;
+
+  color: white;
+  background: #071920;
+  
+  font-size: medium;
+  
+}
+
+  ._info_column_handle {
+    position: absolute;
+    top: 270px;
+    left: 5%;
+    right: 10%;
+    width: auto;
+    font-size: small;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+}
+
+.cbdproject {
+    position: absolute;
+    top: 500px;
+    left: 5%;
+
+    font-size: small;
+    height: 220px;
+    width: auto;
+    border-radius: 15%;
+
+    color: white;
+}
+.fila_1{
+  position: relative;
+  top: 50px;left: 5px;
+}
+
+  .fila_2 {
+      position: absolute;
+      right: 10px;
+      top: 35px;
+      position: absolute;
+      width: 180px;
+      border-top-style: solid;
+      padding-top: 7px;
+      border-width: 2px;
+      border-color: #C80036;
+  }
+  .revanchaproject {
+    position: absolute;
+    top: 700px;
+    left: 5%;
+    text-align: left;
+    font-size: small;
+
+    height: 220px;
+    width: auto;
+    border-radius: 15%;
+    color: white;
+}
+.handle_pagefoter {
+    position: absolute;
+    top: 900px;
+    left: 5%;
+    width: 300px;
+  text-align: center;
+  
+  
+}
+
+a {
+  color:bisque;
+  text-decoration: none;
+
+}
+
+  
+}
+
+@media  screen and (min-width: 450px) and (max-width: 710px){
+  
+  .logoprimero{
+    position: absolute;
+    top: 25px; left: 25px;
+    color: white;
+  }
+   
+  .cuerpo {
+    background-color: #071920;
+    width: auto;
+    height: 1110px;
+  
+}
+
+.insidebox {
+  position: absolute;
+  align-items: first baseline;
+  width: 200px;
+  top: 100px;
+left:   15%;
+  display: flex;
+  flex-direction: column;
+
+  color: white;
+  background: #071920;
+  
+  font-size: medium;
+  
+}
+
+  ._info_column_handle {
+    position: absolute;
+    top: 270px;
+    left: 5%;
+    right: 10%;
+    width: auto;
+    font-size: small;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+}
+
+.cbdproject {
+    position: absolute;
+    top: 500px;
+    left: 5%;
+
+    font-size: small;
+    height: 220px;
+    width: auto;
+    border-radius: 15%;
+
+    color: white;
+}
+.fila_1{
+  position: relative;
+  top: 50px;left: 5px;
+}
+
+  .fila_2 {
+      position: absolute;
+      right: 10px;
+      top: 35px;
+      position: absolute;
+      width: 180px;
+      border-top-style: solid;
+      padding-top: 7px;
+      border-width: 2px;
+      border-color: #C80036;
+  }
+  .revanchaproject {
+    position: absolute;
+    top: 700px;
+    left: 5%;
+    text-align: left;
+    font-size: small;
+
+    height: 220px;
+    width: auto;
+    border-radius: 15%;
+    color: white;
+}
+.handle_pagefoter {
+    position: absolute;
+    top: 900px;
+    left: 5%;
+    width: 300px;
+  text-align: center;
+  
+  
+}
+
+a {
+  color:bisque;
+  text-decoration: none;
+
+}
+
+  
+}
+
+
+
+
+@media  screen and (min-width: 710px) and (max-width:930px) {
+  
+  .cuerpo {
+    background-color: #071920;
+    width: auto;
+    height: 1080px;
+  }
+  
+  
+  .logoprimero{
+    position: absolute;
+    top: 50px; left: 50px;
+    color: white;
+  }
+ 
+.insidebox {
+  position: absolute;
+
+  width: 200px;
+  top: 150px;
+  left:  45%;
+  text-align: left;
+
+  color: white;
+  background: #071920;
+
+}
+.imageid{
+  position: relative;
+  left: -80px;
+  top: -65px;
+}
+
+
+._info_column_handle {
+  position: absolute;
+  top: 250px;
+  left: 28%;
+
+  width: 400px;
+  height: 200px;
+  font-size: .80em;
+  color: white;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+
+.cbdproject {
+  position: absolute;
+  top: 400px;
+  left: 28%;
+
+  font-size: small;
+  height: 220px;
+  width:400px;
+  border-radius: 15%;
+
+  color: white;
+}
+.fila_1{
+  position: relative;
+  top: -10px;left: 5px;
+}
+.fila_2 {
+  position: absolute;
+  right: 10px;
+  top: 15px;
+  position: absolute;
+  width: 180px;
+  border-top-style: solid;
+  padding-top: 7px;
+  border-width: 2px;
+  border-color: #C80036;
+}
+.revanchaproject {
+  position: absolute;
+  top: 650px;
+  left: 28%;
+  text-align: left;
+  font-size: small;
+
+  height: 220px;
+  width: 400px;
+  border-radius: 15%;
+  color: white;
+}
+.handle_pagefoter {
+  position: relative;
+  top: 850px;
+  left: 24%;
+  width: 500px;
+text-align: center;
+
+
+  color: black;
+}
+
+a {
+  color:bisque;
+  text-decoration: none;
+
+}
+  
+}
+
+
+
+
+@media  screen and (min-width: 930px) and (max-width:1200px) {
+  .cuerpo {
+    background-color: #071920;
+    width: auto;
+    height: 1080px;
+  }
+  
+  
+  .logoprimero{
+    position: absolute;
+    top: 50px; left: 50px;
+    color:aliceblue;
+  }
+ 
+.insidebox {
+  position: absolute;
+
+  width: 200px;
+  top: 150px;
+  left:  45%;
+  text-align: left;
+
+  color: white;
+  background: #071920;
+
+}
+.imageid{
+  position: relative;
+  left: -80px;
+  top: -65px;
+}
+
+
+._info_column_handle {
+  position: absolute;
+  top: 250px;
+  left: 30%;
+
+  width: 400px;
+  height: 200px;
+  font-size: .80em;
+  color: white;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+
+.cbdproject {
+  position: absolute;
+  top: 400px;
+  left: 30%;
+
+  font-size: small;
+  height: 220px;
+  width:400px;
+  border-radius: 15%;
+
+  color: white;
+}
+.fila_1{
+  position: relative;
+  top: -10px;left: 5px;
+}
+.fila_2 {
+  position: absolute;
+  right: 10px;
+  top: 15px;
+  position: absolute;
+  width: 180px;
+  border-top-style: solid;
+  padding-top: 7px;
+  border-width: 2px;
+  border-color: #C80036;
+}
+.revanchaproject {
+  position: absolute;
+  top: 650px;
+  left: 30%;
+  text-align: left;
+  font-size: small;
+
+  height: 220px;
+  width: 400px;
+  border-radius: 15%;
+  color: white;
+}
+.handle_pagefoter {
+  position: relative;
+  top: 850px;
+  left: 25%;
+  width: 500px;
+text-align: center;
+
+
+  color: black;
+}
+
+a {
+  color:bisque;
+  text-decoration: none;
+
+}
+  
+  
+}
+
+
+@media  screen and (min-width: 1200px) and (max-width:1680px) {
+  .cuerpo {
+    background-color: #071920;
+    width: auto;
+    z-index: -1;
+    height: 1180px;
+  }
+  /*071920*/
+  
+  .logoprimero{
+    position: absolute;
+    top: 50px; left: 50px;
+    color: white;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+ 
+.insidebox {
+  flex-direction: row;
+  
+  position: absolute;
+
+  width: 200px;
+  top: 130px;
+  left:  40%;
+  text-align: left;
+
+  color: white;
+  background: #071920;
+
+}
+.imgid{
+  top: 130px;
+  left: 34%;
+  position: absolute;
+  width: 150px;
+}
+
+._info_column_handle {
+  position: absolute;
+  top: 250px;
+  left: 34%;
+
+  width: 400px;
+  height: 300px;
+  font-size: .80em;
+  color: white;
+
+  text-align: left;
+}
+
+.cbdproject {
+  position: absolute;
+  top: 450px;
+  left: 34%;
+
+  font-size: small;
+  height: 220px;
+  width:400px;
+  border-radius: 15%;
+
+  color: white;
+}
+
+.fila_2 {
+  position: absolute;
+  right: 10px;
+  top: 0px;
+  position: absolute;
+  width: 180px;
+  border-top-style: solid;
+  padding-top: 7px;
+  border-width: 2px;
+  border-color: #3b0750;
+}
+.revanchaproject {
+  position: absolute;
+  top: 650px;
+  left: 34%;
+  text-align: left;
+  font-size: small;
+
+  height: 220px;
+  width: 400px;
+  border-radius: 15%;
+  color: white;
+}
+.handle_pagefoter {
+  position: relative;
+  top: 850px;
+  left: 34%;
+  width: 500px;
+text-align: left;
+
+
+}
+.handle_pagefoter-1{
+  position: absolute;
+
+  top: 1030px;
+  left: 42%;
+
+}
+
+
+
+.handle_pagefoter.a {
+  color:bisque;
+  text-decoration: none;
+
+}
+}
